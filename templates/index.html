@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block bodyblock %}
+    <div class="container">
+    <div class="jumbotron">
+        <h1 class="display-2">Freezmart</h1>
+        <p class="lead">Página para controle de ventoinhas através do ESP32.</p>
+        <hr class="my-4">
+        <p>A ferramenta oferece duas funcionalidades, acionamento manual das ventoinhas e visualização do histórico de acionamento das mesmas.</p>
+        <a class="btn btn-primary btn-lg" href="/historico" role="button">Histórico</a>
+        <a class="btn btn-primary btn-lg" href="/aplicacao" role="button">Aplicação</a>
+      </div>
+    </div>
+
+
+    <div class="container">
+      <figure class="figure">  
+        <img class="figure-img img-fluid" src="/static/Freezmart1.png" alt="Imagem">
+        <figcaption class="figure-caption text-right">Esquema do protótipo</figcaption>
+      </figure>
+      </div>
+{% endblock bodyblock %}

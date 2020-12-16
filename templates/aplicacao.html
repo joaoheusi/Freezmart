@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block bodyblock %}
+    <div class="container">
+    <div class="jumbotron">
+        <h1 class="display-2">Freezmart</h1>
+        <h2 class="display-4">Aplicacao</h2>
+        <hr class="my-4">
+        <p>A aplicação se comunica com a placa ESP32 para identificar seu status atual e permite o acionamento.</p>
+        <a class="btn btn-primary btn-lg" href="/index" role="button">Página Inicial</a>
+        <a class="btn btn-primary btn-lg" href="/historico" role="button">Historico</a>
+      </div>
+    </div>
+
+    <div class="container">
+      <h1>Ultima temperatura registrada: {{current_temperature}}</h1>
+    </div>
+    <div class="container">
+            <form action="{{ url_for(button_url) }}" method="POST">
+                <input type="submit" name="confirm"class="btn {{ button_class }} btn-lg" value="{{ button_name }}">
+            </form>
+		</div>
+    </div>
+{% endblock bodyblock %}

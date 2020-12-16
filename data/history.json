@@ -1,0 +1,245 @@
+{
+    "1": {
+        "status": "Desligada"
+    },
+    "2": {
+        "status": "Ligada",
+        "hora": "2020-12-14 20:57:21.530391",
+        "origem": "web",
+        "temp": 29.5
+    },
+    "3": {
+        "status": "Desligada",
+        "hora": "2020-12-14 20:57:24.418386",
+        "origem": "web",
+        "temp": 29.5
+    },
+    "4": {
+        "status": "Ligada",
+        "hora": "2020-12-14 20:57:27.779275",
+        "origem": "web",
+        "temp": 29.3
+    },
+    "5": {
+        "status": "Desligada",
+        "hora": "2020-12-14 20:57:33.292353",
+        "origem": "web",
+        "temp": 27.9
+    },
+    "6": {
+        "status": "Ligada",
+        "hora": "2020-12-14 20:57:35.510753",
+        "origem": "web",
+        "temp": 28.2
+    },
+    "7": {
+        "status": "Desligada",
+        "hora": "2020-12-14 20:57:36.919709",
+        "origem": "web",
+        "temp": 28.1
+    },
+    "8": {
+        "status": "Ligada",
+        "hora": "2020-12-14 20:57:38.226844",
+        "origem": "web",
+        "temp": 27.8
+    },
+    "9": {
+        "status": "Desligada",
+        "hora": "2020-12-14 20:57:39.513700",
+        "origem": "web",
+        "temp": 27.7
+    },
+    "10": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:43:38.710903",
+        "origem": "web",
+        "temp": 28.3
+    },
+    "11": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:43:48.566382",
+        "origem": "web",
+        "temp": 28.2
+    },
+    "12": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:45:33.519173",
+        "origem": "web",
+        "temp": 26.1
+    },
+    "13": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:45:34.367460",
+        "origem": "web",
+        "temp": 26.5
+    },
+    "14": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:45:35.046322",
+        "origem": "web",
+        "temp": 26.5
+    },
+    "15": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:45:35.767212",
+        "origem": "web",
+        "temp": 27.0
+    },
+    "16": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:45:36.552579",
+        "origem": "web",
+        "temp": 27.4
+    },
+    "17": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:45:37.119061",
+        "origem": "web",
+        "temp": 27.0
+    },
+    "18": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:45:37.752087",
+        "origem": "web",
+        "temp": 26.5
+    },
+    "19": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:45:38.360621",
+        "origem": "web",
+        "temp": 26.1
+    },
+    "20": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:45:38.911933",
+        "origem": "web",
+        "temp": 26.0
+    },
+    "21": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:45:39.400295",
+        "origem": "web",
+        "temp": 27.2
+    },
+    "22": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:45:39.934924",
+        "origem": "web",
+        "temp": 27.4
+    },
+    "23": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:45:40.448051",
+        "origem": "web",
+        "temp": 27.1
+    },
+    "24": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:45:41.033973",
+        "origem": "web",
+        "temp": 27.4
+    },
+    "25": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:45:55.680351",
+        "origem": "web",
+        "temp": 27.4
+    },
+    "26": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:45:56.585423",
+        "origem": "web",
+        "temp": 27.2
+    },
+    "27": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:45:57.710516",
+        "origem": "web",
+        "temp": 27.4
+    },
+    "28": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:45:58.616053",
+        "origem": "web",
+        "temp": 27.0
+    },
+    "29": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:45:59.575251",
+        "origem": "web",
+        "temp": 26.4
+    },
+    "30": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:46:00.481472",
+        "origem": "web",
+        "temp": 27.0
+    },
+    "31": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:46:01.294661",
+        "origem": "web",
+        "temp": 26.3
+    },
+    "32": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:46:02.050097",
+        "origem": "web",
+        "temp": 27.1
+    },
+    "33": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:46:02.818854",
+        "origem": "web",
+        "temp": 27.6
+    },
+    "34": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:46:24.213926",
+        "origem": "web",
+        "temp": 26.1
+    },
+    "35": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:46:25.091741",
+        "origem": "web",
+        "temp": 26.5
+    },
+    "36": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:46:25.628420",
+        "origem": "web",
+        "temp": 27.4
+    },
+    "37": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:46:36.031160",
+        "origem": "web",
+        "temp": 27.1
+    },
+    "38": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:46:38.151684",
+        "origem": "web",
+        "temp": 27.3
+    },
+    "39": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:46:40.792214",
+        "origem": "web",
+        "temp": 27.1
+    },
+    "40": {
+        "status": "Ligada",
+        "hora": "2020-12-15 21:55:25.222017",
+        "origem": "web",
+        "temp": 27.3
+    },
+    "41": {
+        "status": "Desligada",
+        "hora": "2020-12-15 21:55:37.296102",
+        "origem": "web",
+        "temp": 27.2
+    }
+}
