@@ -1,9 +1,4 @@
-# Complete project details at https://RandomNerdTutorials.com
-
-try:
-  import usocket as socket
-except:
-  import socket
+import socket
 
 from machine import Pin
 import network
@@ -14,8 +9,8 @@ esp.osdebug(None)
 import gc
 gc.collect()
 
-ssid = 'HFAM'
-password = 'xicross1234'
+ssid = 'XXXXXXX'
+password = 'XXXXXXXXXX'
 
 station = network.WLAN(network.STA_IF)
 
